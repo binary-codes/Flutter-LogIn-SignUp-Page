@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "908374911696",
+    "firebase_url": "https://bmi-calculator-b2f52.firebaseio.com",
+    "project_id": "bmi-calculator-b2f52",
+    "storage_bucket": "bmi-calculator-b2f52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908374911696:android:3d11ed56346896e4248cd5",
+        "android_client_info": {
+          "package_name": "com.HarshVardhan.bmi_cal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908374911696-r9cl7d1b14b8jkp21tp37b5b1l45f17v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qL-AzO0Kat8OhvD311HQknvLRkjXpfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908374911696-r9cl7d1b14b8jkp21tp37b5b1l45f17v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
